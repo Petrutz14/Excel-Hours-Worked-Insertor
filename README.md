@@ -41,7 +41,7 @@ SHEET_NAME = "SheetName"
 
 3.Run the script:
 ```bash
-python your_script.py
+python excel_auto.py
 ```
 
 4.The Excel sheet will be updated with entry and exit times for each employee.
